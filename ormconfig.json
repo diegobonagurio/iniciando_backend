@@ -5,8 +5,8 @@
   "username": "postgres",
   "password": "docker",
   "database": "gostack_gobarber",
-  "entitites": [
-    "./src/models/*.ts"
+  "entities": [
+    "./src/Models/*.ts"
   ],
   "migrations": [
     "./src/database/migrations/*.ts"
